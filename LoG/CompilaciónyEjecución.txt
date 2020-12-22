@@ -1,0 +1,6 @@
+Compilación:
+cmake .
+make 
+
+Ejecución:
+./LoG tajmahal.png
